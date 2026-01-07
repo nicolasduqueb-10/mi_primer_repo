@@ -8,4 +8,5 @@ Un commit desde Github
 
 Una actualización más desde Github
 Otra actualización para repasar git pull
-Otra parea entender git push
+
+Otra para entender git push
